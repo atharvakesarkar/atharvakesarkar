@@ -1,92 +1,146 @@
+
+<div align="center">
+
 # Hi, I'm Atharva Kesarkar 👋
 
-\<div align="center">
+### Software Developer | Backend & Full-Stack Development
 
-&#x20; \<h1 style="margin-top:-3rem; font-family: 'Poppins', sans-serif; font-weight:700; font-size:3rem;">
-&#x20;   \<span style="background\:linear-gradient(90deg,#00ffd5,#0077ff,#8a2be2); -webkit-background-clip\:text; color\:transparent;">
-&#x20;     Hi, I'm Atharva Kesarkar 👋
-&#x20;   \</span>
-&#x20; \</h1>
+**Software Developer Intern @ Tungsten Fitness Club (TFC)**
 
-&#x20; \<p>
-&#x20;   \<b>Software Engineer Intern @ Tungsten Fitness Club (TFC)\</b>\<br/>
-&#x20;   Backend Development • Node.js • React • Java • DSA
-&#x20; \</p>
+Node.js • Express.js • React • Java • Spring Boot • DSA
 
-&#x20; \<p>
-&#x20;   \<em>"I build scalable backend systems and grow by solving real-world engineering problems."\</em>
-&#x20; \</p>
+<p>
+  <i>I build scalable backend systems and grow by solving real-world engineering problems.</i>
+</p>
 
-\</div>
+<img src="https://komarev.com/ghpvc/?username=atharvakesarkar&label=Profile%20Views&color=0077ff&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-### 🚀 What I'm Doing Now
+## 🚀 What I'm Doing Now
 
-- **Working:** Software Engineer Intern at Tungsten Fitness Club (TFC)
-- **Building:** Backend features, APIs and business workflows using Node.js, React and Firebase
-- **Learning:** Node.js • Express.js • Database Design • Backend Architecture
-- **Open to:** Backend Development • Full-Stack Development • Open Source Contributions
-
----
-
-### 🧬 Tech Stack
-
-| Layer         | Technologies  |
-| ------------- | ------------- |
-| **Backend**   | &#x20; &#x20; |
-| **Databases** | &#x20;&#x20;  |
-| **Frontend**  | &#x20; &#x20; |
-| **Tools**     | &#x20;&#x20;  |
+- 💼 **Working:** Software Developer Intern at Tungsten Fitness Club (TFC).
+- 🔨 **Building:** Backend features, REST APIs and business workflows using Node.js, React and Firebase.
+- 📚 **Learning:** Express.js, Database Design, Backend Architecture and System Design.
+- 🌱 **Improving:** Data Structures and Algorithms.
+- 🤝 **Open to:** Backend Development, Full-Stack Development and Open Source Contributions.
 
 ---
 
-### 🔥 Featured Projects
+## 🧬 Tech Stack
 
-| Project             | Stack                           | Status                                                                |
-| ------------------- | ------------------------------- | --------------------------------------------------------------------- |
-| **CRAFT**           | Spring Boot • Java • PostgreSQL | 🚧 In Development                                                     |
-| **DivyaDrishti**    | MERN • Real-time Analytics      | 🌐 Live Platform                                                      |
-| **Gesture Control** | Python • OpenCV                 | 📦 [Repository](https://github.com/atharvakesarkar/cursor-controller) |
-
----
-
-### 💼 Experience
-
-- **Software Engineer Intern – Tungsten Fitness Club (TFC)** *(October 2026 – Present)*
-  Working on backend development, APIs and business workflows using Node.js, React and Firebase.
-
-- **Software Developer Intern – ESAMYAK** *(June 2026 – October 2026)*
-  Worked on backend services using Java and Spring Boot, React UI modules, API development and data export functionality.
-
-- **Team Lead & Backend Developer – DivyaDrishti** *(2025 – Present)*
-  Leading development of a real-time air-quality and pollution analytics platform.
-
-- **Assistant Teacher – Smart-Byte Computer Education**
-  Teaching Python, Web Development and SQL through hands-on projects.
+| Layer | Technologies |
+|---|---|
+| **Languages** | JavaScript, Python, Java, SQL |
+| **Backend** | Node.js, Express.js, Spring Boot |
+| **Frontend** | HTML5, CSS3, JavaScript, React |
+| **Databases** | Firebase, Firestore, PostgreSQL, MySQL |
+| **Tools** | Git, GitHub, Postman, VS Code, IntelliJ IDEA |
+| **Core Concepts** | REST APIs, OOP, DSA, Database Design |
 
 ---
 
-### 📊 GitHub Activity
+## 🔥 Featured Projects
 
-\<div align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=atharvakesarkar\&show_icons=true\&theme=radical\&hide_border=true)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=radical&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar\&layout=compact\&theme=radical\&hide_border=true\&langs_count=6)" height="165" /> \</div>
+| Project | Technologies | Status |
+|---|---|---|
+| **CRAFT** | Java • Spring Boot • PostgreSQL | 🚧 In Development |
+| **DivyaDrishti** | MERN Stack • Real-time Analytics | 🌐 Live Platform |
+| **Gesture Control** | Python • OpenCV | 📦 Completed |
+
+- **Gesture Control:** [View Repository](https://github.com/atharvakesarkar/cursor-controller)
 
 ---
 
-### 🌱 Currently Exploring
+## 💼 Experience
 
-> "Every line of code is a step toward mastery."
+**Software Developer Intern | Tungsten Fitness Club (TFC)**
+
+*October 2026 – Present*
+
+- Developing backend features and APIs using Node.js.
+- Working on business workflows and Firebase integration.
+- Contributing to existing application modules.
+
+**Software Developer Intern | ESAMYAK**
+
+*June 2026 – October 2026*
+
+- Developed backend services using Java and Spring Boot.
+- Worked on React UI modules and API integration.
+- Implemented PDF and Excel export functionality.
+
+**Team Lead & Backend Developer | DivyaDrishti**
+
+*2025 – Present*
+
+- Leading development of a real-time air-quality and pollution analytics platform.
+- Working on backend functionality and application architecture.
+
+**Assistant Teacher | Smart-Byte Computer Education**
+
+- Teaching Python, Web Development and SQL.
+- Helping students understand programming through practical projects.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=atharvakesarkar&theme=tokyonight&hide_border=true" width="65%" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
 
 - Node.js Backend Development
+- Express.js and REST API Architecture
 - Database Design and Optimization
-- REST API Architecture
-- System Design Fundamentals
+- Backend System Design
 - Data Structures and Algorithms
+- Open Source Contributions
 
 ---
 
-### 📬 Let's Connect
+## 🏆 My Development Philosophy
 
-\<p align="center">   \<a href="mailto\:kesarkaratharva24\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Get_in_Touch-red?logo=gmail](https://img.shields.io/badge/Email-Get_in_Touch-red?logo=gmail)" />\</a>   \<a href="[https://www.linkedin.com/in/atharva-kesarkar-bb13b7345](https://www.linkedin.com/in/atharva-kesarkar-bb13b7345)">\<img src="[https://img.shields.io/badge/LinkedIn-Atharva_Kesarkar-blue?logo=linkedin](https://img.shields.io/badge/LinkedIn-Atharva_Kesarkar-blue?logo=linkedin)" />\</a>   \<a href="[https://github.com/atharvakesarkar](https://github.com/atharvakesarkar)">\<img src="[https://img.shields.io/badge/GitHub-atharvakesarkar-181717?logo=github](https://img.shields.io/badge/GitHub-atharvakesarkar-181717?logo=github)" />\</a> \</p>
+> "Build things that solve real problems. Understand the fundamentals. Keep improving."
 
-\<div align="center">   \<sub>Built with ☕ and clean code\</sub>\<br/>   \<sub>© 2026 Atharva Kesarkar\</sub> \</div>
+I believe consistent learning, practical implementation and solving real-world engineering problems are the foundations of becoming a better software developer.
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:kesarkartatharva24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/atharva-kesarkar-bb13b7345">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/atharvakesarkar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+<sub>Built with ☕ and clean code.</sub>
+
+<sub>© 2026 Atharva Kesarkar</sub>
+
+</div>
